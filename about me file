@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title> She Quilts Alot </title>
+	<style> 
+	  h1 {
+	    color: ;
+	    font: ;
+	  }
+	</style>
+</head>
+
+<body> 
+  <h1> About Me! </h1> 
+  
+  <p> Welcome to She Quilts Alot! </p>
+  <p> My name is Peta Peace and I’m a quilter who’s been making and creating for 14 years.   
+  That seems like such a long time and when I look back it sure is a lot of quilts! </p>
+  <img id="about-me-image" src="" alt="' height="" >
+  <p> When I’m not sewing and quilting I am a wife to my super spunky best friend Richard (he seriously is!) and a Mum to 
+  our two beautiful girls.  Somewhere in all of that I also run my own non quilt related business. </p>
+  <p> We are lucky enough to call Brisbane, Australia home.   I love the small town feel of this city and the fantastic weather we have…
+  except in January & February when the really high humidity hits and my hair goes crazy! </p>
+  <p> I hope you enjoy this little blog.  If you have any questions, or just want to say hi!, I’d love to hear from you. </p> 
+  <img src="" alt="XO Peta" width="20%">
+
+</body>
+</html>
